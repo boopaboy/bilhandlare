@@ -1,4 +1,5 @@
 "use client"
+const axios = require("axios");
 import Navbar from "../navbar";
 import Footer from "../footer";
 import ProductCard from "../productCard";

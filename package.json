@@ -9,10 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axiom": "^0.1.6",
+    "axios": "^1.8.1",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
+    "env": "^0.0.2",
     "express": "^4.21.2",
-    "mongoose": "^8.11.0",
+    "mongoose": "^8.12.1",
     "next": "15.2.0",
     "next-cloudinary": "^6.16.0",
     "react": "^19.0.0",
